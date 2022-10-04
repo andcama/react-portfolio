@@ -6,7 +6,6 @@ import portofolioData from '../../data/portfolio.json'
 
 const Portfolio = () => {
   const [letterClass, setLetterClass] = useState('text-animate')
-  const [portfolio, setPortfolio] = useState([])
   console.log(portofolioData)
 
   useEffect(() => {
