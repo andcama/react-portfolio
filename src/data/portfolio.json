@@ -23,6 +23,12 @@
             "title": "Todos RTK Query",
             "description": "RTK Query Function Example",
             "url": "https://toolkit-redux-kxvf7rzbd-andcama.vercel.app/"
+        },
+        {
+            "cover": "/portfolio/1/six.png",
+            "title": "Weather App",
+            "description": "Weather and forecast",
+            "url": "https://react-weather-app-pearl-five.vercel.app/"
         }
     ]
 }
