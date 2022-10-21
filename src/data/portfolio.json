@@ -29,6 +29,12 @@
             "title": "Weather App",
             "description": "Weather and forecast",
             "url": "https://react-weather-app-pearl-five.vercel.app/"
+        },
+        {
+            "cover": "/portfolio/1/seven.png",
+            "title": "Calendar App CRUD",
+            "description": "Calendar App NodeJS+ReactJS Full Stack",
+            "url": "https://react-mern-calendar-frontend.vercel.app/"
         }
     ]
 }
