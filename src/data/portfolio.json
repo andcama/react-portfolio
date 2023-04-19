@@ -35,6 +35,18 @@
             "title": "Calendar App CRUD",
             "description": "Calendar App NodeJS+ReactJS Full Stack",
             "url": "https://react-mern-calendar-frontend.vercel.app/"
+        },
+        {
+            "cover": "/portfolio/1/nine.png",
+            "title": "Pokemons-App-Reactjs",
+            "description": "Pokemons-App-Reactjs",
+            "url": "https://pokemon-nextjs-app-three.vercel.app//"
+        },
+        {
+            "cover": "/portfolio/1/eight.png",
+            "title": "Full Stack Airbnb Clone with Next.js 13",
+            "description": "Full Stack Airbnb Clone with Next.js 13 App CRUD Router: React, Tailwind, Prisma, MongoDB, NextAuth,Typescript",
+            "url": "https://airbnb-gciabql9b-andcama.vercel.app/"
         }
     ]
 }
