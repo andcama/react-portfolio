@@ -53,6 +53,12 @@
             "title": "Open Jira Next.js 13",
             "description": "Jira Clone with Next.js 13 App Create/Update : React,MongoDB,Typescript",
             "url": "https://open-jira-app-two.vercel.app/"
+        },
+          {
+            "cover": "/portfolio/1/eleven.png",
+            "title": "TS -React Introduction",
+            "description": "Typescript React Fundamentals",
+            "url": "https://app-ts-react-introduction.vercel.app/"
         }
     ]
 }
