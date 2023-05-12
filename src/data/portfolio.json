@@ -47,6 +47,12 @@
             "title": "Full Stack Airbnb Clone with Next.js 13",
             "description": "Full Stack Airbnb Clone with Next.js 13 App CRUD Router: React, Tailwind, Prisma, MongoDB, NextAuth,Typescript",
             "url": "https://airbnb-gciabql9b-andcama.vercel.app/"
+        },
+         {
+            "cover": "/portfolio/1/ten.png",
+            "title": "Open Jira Next.js 13",
+            "description": "Jira Clone with Next.js 13 App Create/Update : React,MongoDB,Typescript",
+            "url": "https://open-jira-app-two.vercel.app/"
         }
     ]
 }
