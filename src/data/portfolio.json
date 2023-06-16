@@ -85,6 +85,18 @@
             "title": "Inspiritional Quote Generator Nextjs",
             "description":"Inspiritional Quote Generator Nextjs" ,
             "url": "https://prod.d162tlmsvnhy1m.amplifyapp.com/"
-        }
+        },
+        {
+          "cover": "/portfolio/1/sixteen.png",
+          "title": "Poke App Qwik",
+          "description":"Poke App Qwik" ,
+          "url": "https://qwik-poke-app.vercel.app/"
+      },
+      {
+        "cover": "/portfolio/1/seventeen.png",
+        "title": "Todo List Angular",
+        "description":"Todo List Angular" ,
+        "url": "https://to-do-list-in-angular.vercel.app/"
+    }
     ]
 }
