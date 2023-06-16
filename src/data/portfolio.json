@@ -59,6 +59,32 @@
             "title": "TS -React Introduction",
             "description": "Typescript React Fundamentals",
             "url": "https://app-ts-react-introduction.vercel.app/"
+        },
+          {
+            "cover": "/portfolio/1/twelve.png",
+            "title": "Family Guy Nextjs",
+            "description": "Family Guy Nextjs",
+            "url": "https://family-guy-app-nextjs-kls9x2wnh-andcama.vercel.app/"
+        }
+        ,
+          {
+            "cover": "/portfolio/1/thirteen.png",
+            "title": "Angular Jira Clone",
+            "description":  "Angular Jira Clone",
+            "url": "https://jira-clone-angular-ten.vercel.app/project/board"
+        }
+        ,
+          {
+            "cover": "/portfolio/1/fourteen.png",
+            "title": "Calculator Angular",
+            "description": "Calculator Angular",
+            "url": "https://app-calculator-angular.vercel.app/"
+        },
+          {
+            "cover": "/portfolio/1/fifthen.png",
+            "title": "Inspiritional Quote Generator Nextjs",
+            "description":"Inspiritional Quote Generator Nextjs" ,
+            "url": "https://prod.d162tlmsvnhy1m.amplifyapp.com/"
         }
     ]
 }
